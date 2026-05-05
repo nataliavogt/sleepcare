@@ -1,0 +1,6 @@
+# Configure o git para armazenar credenciais
+git config --global credential.helper osxkeychain
+
+# Configure sua identidade no git
+git config --global user.name "Natalia Vogt"
+git config --global user.email "nataliavogt@outlook.com"
