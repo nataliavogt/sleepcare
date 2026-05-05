@@ -1,0 +1,2 @@
+cd /Users/nataliavogt/Documents/Claude/Projects/Medicina\ do\ Sono
+git push -u origin main
