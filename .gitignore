@@ -1,0 +1,4 @@
+brew install gh  # Install GitHub CLI if not already installed
+gh auth login    # Follow the interactive setup
+cd /Users/nataliavogt/Documents/Claude/Projects/Medicina\ do\ Sono
+git push -u origin main
